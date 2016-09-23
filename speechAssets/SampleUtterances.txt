@@ -1,0 +1,3 @@
+GeoTeacherIntent Geo Teacher
+GeoTeacherIntent Teach me something about a country
+GeoTeacherIntent Give some information about a country
